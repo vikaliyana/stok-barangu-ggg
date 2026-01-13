@@ -1,0 +1,2 @@
+# stok-barangu-ggg
+web
